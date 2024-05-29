@@ -1,0 +1,38 @@
+body{
+    color: rgb(255, 255, 255);
+    background-color: black;
+    font-family: sans-serif;
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+
+    color: yellow;
+
+}
+
+h2{
+
+    color: red;
+
+}
+
+div{
+
+    margin: 20px;
+    padding: 100px;
+
+}
+
+a{
+    
+    color: yellow;
+    text-decoration: none;
+
+}
